@@ -3,7 +3,7 @@ Dynamic Meta-Embedding for improved sentence representations:
  * An approach to using word embeddings for natural language processing (NLP) that dynamically selects the right types of embeddings for the task at hand.
  * It improves efficiency and overall performance by training a neural network on multiple embeddings, allowing the system to determine the usefulness of each embedding to understand language related to a given task.
 
-Following are the results obtained for Sentiment Analysis task on [Movie Review Data] (https://www.cs.cornell.edu/people/pabo/movie-review-data/),
+Following are the results obtained for Sentiment Analysis task on [Movie Review Data](https://www.cs.cornell.edu/people/pabo/movie-review-data/),
 
   * Pretrained - Fasttext:
     * Test Accuracy: 0.8177
