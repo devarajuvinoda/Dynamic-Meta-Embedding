@@ -21,3 +21,5 @@ Following are the results obtained for Sentiment Analysis task on [Movie Review 
 
 Reference:
 * [Dynamic Meta-Embeddings for Improved Sentence Representations](https://arxiv.org/abs/1804.07983) by Douwe Kiela, Changhan Wang, Kyunghyun Cho
+
+NOTE: The dataset contains 5331 positive and 5331 negative examples in two different files. The last 831 examples from each file was used as a test set (Total test set size 1662).
